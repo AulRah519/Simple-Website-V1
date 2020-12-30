@@ -1,0 +1,41 @@
+.title {
+    color: brown;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.body {
+    background-color: cornsilk;
+}
+
+.Laptop1 {
+    cursor: pointer;
+    
+}
+
+.div1 {
+    size: 20px;
+    background-color: rgb(188, 223, 142);
+    margin: 10mm;
+}
+
+.div2 {
+    background-color: lightgrey;
+    margin: 10mm;
+}
+
+.footer {
+    position: fixed;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: blanchedalmond;
+    color: black;
+    text-shadow: dodgerblue;
+}
+
+.div3 {
+    background-color: rgb(231, 156, 80);
+    padding: 1mm;
+}
